@@ -1,0 +1,91 @@
+{
+    "bot": {
+        "owner": "941388757913985074",
+        "Token": "OTw", 
+        "prefix": ".",
+        "BotStatus": "Josta✘ 💜 Lei",
+        "cooldown": 8,
+        "iltifatsize": 100
+    },
+    "penals": {
+        "ban": {
+            "staff": "",
+            "log": "",
+            "limit": 2
+        },
+        "jail": {
+            "staff": "",
+            "roles": "",
+            "log": "",
+            "limit": 5
+        },
+        "mute": {
+            "staff": "",
+            "roles": "",
+            "log": "",
+            "limit": 5
+        },
+        "warn": {
+            "staff": "",
+            "log": ""
+        },
+        "points": {
+            "mutepoints": "10",
+            "banpoints": "30",
+            "jailpoints": "20",
+            "warnpoints": "5"
+        }
+    },
+    "logs": {
+        "messagelog": "",
+        "voicelog": "",
+        "taglog": ""
+    },
+    "roles": {
+        "boosterrole": "",
+        "viprole": "",
+        "designerrole": "",
+        "musiciansrole": "",
+        "team": "",
+        "sponsored": ""
+    },
+    "channels": {
+        "chat": "",
+        "voicechannel": "",
+        "welcomechannel": "",
+        "rules": ""
+    },
+    "parents": {
+        "publicparents": ""
+    },
+    "registration": {
+        "unregistered": ["",""],
+        "man": ["","",""],
+        "woman": ["","",""],
+        "staff": "",
+        "GuilDTag": "†",
+        "TagSymbol": "†",
+        "autonickname": "† İsim ` Yaş",
+        "symbol": "`",
+        "suspecios": "",
+        "susoeciosnickname": "† New Account",
+        "oneman": "",
+        "onewoman": "",
+        "minage": 13, 
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "",
+        "GuilDName": "† Sunucu İsim",
+        "GuildOwnerRole": [""]
+    },
+    "emojis": {
+        "tada": "<a:tada:935621171863502918>",
+        "yes": "<a:green:935626171574534154>",
+        "no": "<a:red:935619763919552642>"
+    },
+    "buttons": {
+        "giveaway": "",
+        "activity": ""
+    }
+}
